@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @innasoboleva
-- 👀 I’m interested in mobile development!
-- 🌱 I’m currently learning swift and MD
+- 👀 I’m interested in software development!
+- 🌱 I’m currently learning at Hackbright Academy
 - 💞️ I’m looking to collaborate on intersting mobile apps
 - 📫 Please feel free to email me inna1.soboleva@gmail.com
 
